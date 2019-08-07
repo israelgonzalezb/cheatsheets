@@ -1,5 +1,6 @@
 ---
 title: Spreadsheet functions
+layout: 2017/sheet
 ---
 
 ### If
